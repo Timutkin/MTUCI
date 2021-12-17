@@ -13,3 +13,6 @@ import psycopg2
 ![Image](https://github.com/Timutkin/MyWebApp/blob/main/WebApp%20image/2.jpg)
 ## Account
 ![Image](https://github.com/Timutkin/MyWebApp/blob/main/WebApp%20image/3.jpg)
+
+## Conclusion
+Using the Flask, psycopg2 frameworks, you can write a WebApp, with authorization and registration forms.
