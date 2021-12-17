@@ -21,3 +21,8 @@ def _result(self):
 Result:
 
 ![Screenshot](Calc.jpg)
+
+
+## Conclusion
+
+Using PyQt5, you can write simple UI applications, such as a calculator
