@@ -9,3 +9,4 @@ from PyQt5.QtWidgets import (QApplication, QWidget,
                              QTableWidgetItem, QPushButton, QMessageBox,
                              QAbstractButton, QButtonGroup)
 ```
+![Image](https://github.com/Timutkin/MTUCI/blob/main/UI-Schedule_2.0/UI.jpg)
