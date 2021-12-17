@@ -16,4 +16,7 @@ import psycopg2
 ## Weekly timetable:
 ![Image](https://github.com/Timutkin/Schedule-of-classes/blob/main/Python%20bot/4.jpg)
 
+## Conclusion 
+
+Using the PyTelegramBot Api, psycopg2, you can write a bot that send schedule of the university activities For each day or for the whole week
 
