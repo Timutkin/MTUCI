@@ -6,5 +6,5 @@ import os, requests, uuid, json
 ````
 ![Image](https://github.com/zuzuka28/mtuci_prog/raw/main/doc/withazure.png)
 ## Conclusion 
-Using the flash text-to-speech API, JavaScript allowed me to create a translator with many languages
+Using the Azure by Microsoft, JavaScript allowed me to create a translator with many languages
 
